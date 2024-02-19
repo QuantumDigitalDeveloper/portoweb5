@@ -1,0 +1,36 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * hoss-round-wide:
+ *   - http://typekit.com/eulas/00000000000000007736110a
+ *   - http://typekit.com/eulas/000000000000000077361113
+ *   - http://typekit.com/eulas/000000000000000077361110
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-05-17 15:32:35 UTC"}*/
+
+@import url("../p.typekit.net/p09bd.css?s=1&amp;k=jpx0kib&amp;ht=tk&amp;f=50326.50327.50336&amp;a=37850786&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"hoss-round-wide";
+src:url("af/e0c7fb/00000000000000007736110a/30/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/e0c7fb/00000000000000007736110a/30/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/e0c7fb/00000000000000007736110a/30/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"hoss-round-wide";
+src:url("af/c99b0e/000000000000000077361113/30/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/c99b0e/000000000000000077361113/30/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/c99b0e/000000000000000077361113/30/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"hoss-round-wide";
+src:url("af/605a45/000000000000000077361110/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/605a45/000000000000000077361110/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/605a45/000000000000000077361110/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-hoss-round-wide { font-family: "hoss-round-wide",sans-serif; }
